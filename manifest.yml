@@ -1,0 +1,24 @@
+modules:
+  macro:
+    - key: poll
+      resource: main
+      render: native
+      resolver:
+        function: resolver
+      title: poll_app
+      config: true
+  function:
+    - key: resolver
+      handler: index.handler
+resources:
+  - key: main
+    path: src/frontend/index.jsx
+app:
+  runtime:
+    name: nodejs18.x
+  id: ari:cloud:ecosystem::app/bc4fc243-b856-41fb-ab96-e977d091b469
+permissions:
+  external:
+    fetch:
+      backend:
+        - api.openweathermap.org

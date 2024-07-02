@@ -1,0 +1,1030 @@
+{
+  "total": 11,
+  "pageSize": 100,
+  "page": 1,
+  "events": [
+      {
+          "_id": "668342566df0c0087307ed9b",
+          "location": "AU",
+          "currency": "AUD",
+          "name": "Test ",
+          "description": "",
+          "slug": "test-smw5rvge",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "tagIds": [],
+          "classification": {
+              "type": "other",
+              "category": "other"
+          },
+          "public": false,
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "startDate": "2024-07-02T09:00:00.158Z",
+          "endDate": "2024-07-02T13:00:00.159Z",
+          "dates": [
+              {
+                  "_id": "668342566df0c0087307edcc",
+                  "startDate": "2024-07-02T09:00:00.158Z",
+                  "endDate": "2024-07-02T13:00:00.159Z",
+                  "disabled": false,
+                  "deleted": false
+              }
+          ],
+          "timezone": "Australia/Sydney",
+          "totalCapacity": 10,
+          "eventLocation": {
+              "type": "toBeAnnounced",
+              "latLng": [],
+              "addressComponents": []
+          },
+          "ticketTypes": [
+              {
+                  "_id": "668342566df0c0087307edcf",
+                  "name": "General Admission",
+                  "price": 0,
+                  "quantity": 10,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false
+              }
+          ],
+          "packagedTickets": [],
+          "additionalQuestions": [],
+          "paymentOptions": {},
+          "affiliateCodes": [],
+          "pricing": {
+              "minimumPrice": 0,
+              "maximumPrice": 0
+          },
+          "keywords": [],
+          "artists": [],
+          "createdAt": "2024-07-01T23:57:10.638Z",
+          "updatedAt": "2024-07-02T01:20:54.914Z",
+          "organiserId": "668346c36df0c008730a19ef",
+          "publishedAt": "2024-07-02T01:20:02.787Z"
+      },
+      {
+          "_id": "5fd2f5788d2753000ac4b743",
+          "currency": "AUD",
+          "tagIds": [],
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 41</h3>\n<p>REMOTE RETRO TRASH</p>\n<p></p>\n<h3>Home Alone (1990)</h3>\n<p>A family comedy without the family.<br /></p>\n<p><a href=\"https://www.imdb.com/video/vi2477195545\" target=\"_blank\">View Trailer</a></p>\n<p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 100,
+          "name": "Remote Retro Trash Cinema 44",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2020-12-15T07:00:00.071Z",
+          "endDate": "2020-12-15T10:00:09.407Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270834",
+                  "required": false,
+                  "question": "Dietary Requirements",
+                  "perOrder": true,
+                  "createdAt": "2020-12-11T04:38:35.978Z",
+                  "updatedAt": "2020-12-11T04:38:35.978Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270835",
+                  "perOrder": true,
+                  "question": "Other Dietary Requirements",
+                  "required": false,
+                  "createdAt": "2020-12-11T04:38:35.978Z",
+                  "updatedAt": "2020-12-11T04:38:35.978Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": true,
+                  "isDonation": false,
+                  "priceRange": {
+                      "enabled": false,
+                      "_id": "5fd2f5798d2753000ac4b74f"
+                  },
+                  "priceOptions": {
+                      "enabled": false,
+                      "options": [],
+                      "_id": "5fd2f5798d2753000ac4b750"
+                  },
+                  "_id": "5fd2f5788d2753000ac4b740",
+                  "name": "Retro Trash Cinema 39 - Admit One - Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this includes pizza supplied by Atlassian"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "priceRange": {
+                      "enabled": false,
+                      "_id": "5fd2f5798d2753000ac4b751"
+                  },
+                  "priceOptions": {
+                      "enabled": false,
+                      "options": [],
+                      "_id": "5fd2f5798d2753000ac4b752"
+                  },
+                  "_id": "5fd2f5788d2753000ac4b741",
+                  "name": "Retro Trash Cinema 44",
+                  "quantity": 100,
+                  "description": "Tickets aren't really needed, they just help us to know how many people to expect. "
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5fd2f5788d2753000ac4b742",
+                  "endDate": "2020-12-15T10:00:09.407Z",
+                  "startDate": "2020-12-15T07:00:00.071Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "bannerImage": {
+              "url": "https://cdn.filestackcontent.com/d7yAQtueQek99e1e3hAB"
+          },
+          "eventLocation": {
+              "latLng": [],
+              "type": "online",
+              "venueName": "Level 29",
+              "address": "363 George Street Sydney",
+              "addressComponents": [],
+              "instructions": "Check out https://hello.atlassian.net/wiki/spaces/SCL/pages/694549388/How+to+join+a+remote+Retro+Trash+Cinema"
+          },
+          "location": "AU",
+          "slug": "remote-retro-trash-cinema-44",
+          "createdAt": "2020-12-11T04:28:41.197Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "publishedAt": "2020-12-11T04:28:41.197Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5ee71c2bc42165000727beeb",
+          "currency": "AUD",
+          "tagIds": [],
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 41</h3><p>REMOTE RETRO TRASH</p>\n<p></p>\n<h3>Ferris Bueller's Day Off (1986)</h3>\n<p>One Man's Struggle To Take It Easy<br /></p>\n<p><a href=\"https://www.youtube.com/watch?v=D6gABQFR94U\" target=\"_blank\">View Trailer</a></p>\n<p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 100,
+          "name": "Remote Retro Trash Cinema 41",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2020-06-23T08:00:43.397Z",
+          "endDate": "2020-06-23T11:00:02.766Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270834",
+                  "required": false,
+                  "question": "Dietary Requirements",
+                  "perOrder": true,
+                  "createdAt": "2020-06-15T07:11:15.339Z",
+                  "updatedAt": "2020-06-15T07:11:15.339Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270835",
+                  "perOrder": true,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2020-06-15T07:11:15.339Z",
+                  "updatedAt": "2020-06-15T07:11:15.339Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "priceRange": {
+                      "enabled": false
+                  },
+                  "priceOptions": {
+                      "enabled": false,
+                      "options": []
+                  },
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": true,
+                  "isDonation": false,
+                  "_id": "5ee71c2bc42165000727bee8",
+                  "name": "Retro Trash Cinema 39 - Admit One - Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this includes pizza supplied by Atlassian"
+              },
+              {
+                  "priceRange": {
+                      "enabled": false
+                  },
+                  "priceOptions": {
+                      "enabled": false,
+                      "options": []
+                  },
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5ee71c2bc42165000727bee9",
+                  "name": "Retro Trash Cinema 41",
+                  "quantity": 100,
+                  "description": "Tickets aren't really needed, they just help us to know how many people to expect. "
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5ee71c2bc42165000727beea",
+                  "endDate": "2020-06-23T11:00:02.766Z",
+                  "startDate": "2020-06-23T08:00:43.397Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "bannerImage": {
+              "url": "https://cdn.filestackcontent.com/2RXlrFYcQfy7EtvRnLup"
+          },
+          "eventLocation": {
+              "latLng": [],
+              "type": "online",
+              "venueName": "Level 29",
+              "address": "363 George Street Sydney",
+              "addressComponents": [],
+              "instructions": "Check out https://hello.atlassian.net/wiki/spaces/SCL/pages/694549388/How+to+join+a+remote+Retro+Trash+Cinema"
+          },
+          "location": "AU",
+          "slug": "retro-trash-cinema-41",
+          "createdAt": "2020-06-15T06:58:54.236Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "publishedAt": "2020-06-15T06:58:54.236Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5e265008cc32eb0010bba3b3",
+          "tagIds": [],
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 39</h3>\n<p></p>\n<h3>Teen Wolf (1985)</h3>\n<p>He always wanted to be special... but he never expected this!<br /></p>\n<p><a href=\"https://www.youtube.com/watch?v=96LR5Vsag_E\" target=\"_blank\">View Trailer</a></p>\n<p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 60,
+          "name": "Retro Trash Cinema 39",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2020-02-18T07:00:19.399Z",
+          "endDate": "2020-02-18T11:00:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270834",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2020-01-21T01:24:04.139Z",
+                  "updatedAt": "2020-01-21T01:24:04.139Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270835",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2020-01-21T01:24:04.139Z",
+                  "updatedAt": "2020-01-21T01:24:04.139Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5e265008cc32eb0010bba3b0",
+                  "name": "Retro Trash Cinema 39 - Admit One - Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this includes pizza supplied by Atlassian"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5e265008cc32eb0010bba3b1",
+                  "name": "Retro Trash Cinema 39 - Admit One - No Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this doesn't include pizza (you must RSVP with 3 working days notice for pizza - watch go/retrotrash or join us in #retro-trash-cinema on slack for notifications)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5e265008cc32eb0010bba3b2",
+                  "endDate": "2020-02-18T11:00:43.053Z",
+                  "startDate": "2020-02-18T07:00:19.399Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "bannerImage": {
+              "url": "https://cdn.filestackcontent.com/vHM6DG15QjOQn6ulZ5jj"
+          },
+          "slug": "retro-trash-cinema-39",
+          "createdAt": "2020-01-21T01:12:40.971Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Level 29",
+              "address": "363 George Street Sydney",
+              "addressComponents": []
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2020-01-21T01:12:40.971Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5dc3a05644c081001131bd9b",
+          "tagIds": [],
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 38</h3>\n<p></p>\n<h3>Scrooged (1988)</h3>\n<p>Bill Murray is back among the ghosts. Only this time, it's three against one.<br /></p>\n<p><a href=\"https://www.youtube.com/watch?v=b2fTMi2hoYA\" target=\"_blank\">View Trailer</a></p>\n<p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 60,
+          "name": "Retro Trash Cinema 38",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2019-12-17T07:00:43.053Z",
+          "endDate": "2019-12-17T10:30:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270834",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2019-11-07T05:07:58.358Z",
+                  "updatedAt": "2019-11-07T05:07:58.358Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270835",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2019-11-07T05:07:58.358Z",
+                  "updatedAt": "2019-11-07T05:07:58.358Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5dc3a05644c081001131bd98",
+                  "name": "Retro Trash Cinema 38 - Admit One - Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this includes pizza supplied by Atlassian"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5dc3a05644c081001131bd99",
+                  "name": "Retro Trash Cinema 38 - Admit One - No Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this doesn't include pizza (you must RSVP with 3 working days notice for pizza)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5dc3a05644c081001131bd9a",
+                  "endDate": "2019-12-17T10:30:43.053Z",
+                  "startDate": "2019-12-17T07:00:43.053Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "bannerImage": {
+              "url": "https://cdn.filestackcontent.com/mgGAXFTORJyOYRIBueLN"
+          },
+          "slug": "copy-of-retro-trash-cinema-36",
+          "createdAt": "2019-11-07T04:40:55.173Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Level 29",
+              "address": "363 George Street Sydney",
+              "addressComponents": []
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2019-11-07T04:40:55.173Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5d9d5cec33c76c00119b3cec",
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 37</h3>\n<p></p>\n<h3>Bad Taste (1987)</h3>\n<p>Bad Taste is a 1987 New Zealand science-fiction comedy horror splatter film directed, written, produced, photographed and co-edited by and co-starring Peter Jackson, who also made most of the makeup and special effects. Produced on a low budget, it is Jackson's first feature film.</p>\n<p><a href=\"https://www.youtube.com/watch?v=7IHwKJOZZ6U\" target=\"_blank\">View Trailer</a></p>\n<p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 60,
+          "name": "Retro Trash Cinema 37",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2019-10-15T07:00:43.053Z",
+          "endDate": "2019-10-15T10:30:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270834",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2019-10-09T04:34:16.814Z",
+                  "updatedAt": "2019-10-09T04:34:16.814Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270835",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2019-10-09T04:34:16.814Z",
+                  "updatedAt": "2019-10-09T04:34:16.814Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5d9d5cec33c76c00119b3ce9",
+                  "name": "Retro Trash Cinema 37 - Admit One - Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this includes pizza supplied by Atlassian"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5d9d5cec33c76c00119b3cea",
+                  "name": "Retro Trash Cinema 37 - Admit One - No Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this doesn't include pizza (you must RSVP with 3 working days notice for pizza)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5d9d5cec33c76c00119b3ceb",
+                  "endDate": "2019-10-15T10:30:43.053Z",
+                  "startDate": "2019-10-15T07:00:43.053Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "slug": "retro-trash-cinema-37",
+          "createdAt": "2019-10-09T04:07:09.384Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Level 29",
+              "address": "363 George Street Sydney",
+              "addressComponents": []
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2019-10-09T04:07:09.384Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5d19a5590ff15e0010270837",
+          "published": true,
+          "suspendSales": false,
+          "markedAsSoldOut": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 36</h3>\n<p></p>\n<h3>Bill &amp; Ted's Excellent Adventure (1989)</h3>\n<p>Two seemingly dumb teens set off on a quest to prepare the ultimate historical presentation with the help of a time machine.</p><p><a href=\"https://www.youtube.com/watch?v=sFy17auuK08\" target=\"_blank\">View Trailer</a></p>\n<p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 60,
+          "name": "Retro Trash Cinema 36",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2019-08-20T08:00:43.053Z",
+          "endDate": "2019-08-20T11:30:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270834",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2019-07-01T06:16:57.682Z",
+                  "updatedAt": "2019-07-01T06:16:57.682Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5d19a5590ff15e0010270835",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2019-07-01T06:16:57.682Z",
+                  "updatedAt": "2019-07-01T06:16:57.682Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5d19a5590ff15e0010270831",
+                  "name": "Retro Trash Cinema 36 - Admit One - Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this includes pizza supplied by Atlassian"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5d19a5590ff15e0010270832",
+                  "name": "Retro Trash Cinema 36 - Admit One - No Pizza",
+                  "quantity": 60,
+                  "description": "One entry into Retro Trash cinema, this doesn't include pizza (you must RSVP with 3 working days notice for pizza)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5d19a5590ff15e0010270836",
+                  "endDate": "2019-08-20T11:30:43.053Z",
+                  "startDate": "2019-08-20T08:00:43.053Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "bannerImage": {
+              "url": "https://cdn.filestackcontent.com/EoacbW91S1egEBv3Xxj9"
+          },
+          "slug": "retro-trash-cinema-36",
+          "createdAt": "2019-07-01T06:16:57.683Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Level 29",
+              "address": "363 George Street Sydney"
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2019-07-01T06:16:57.683Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5c85fd23e162b500129a7fe6",
+          "published": true,
+          "suspendSales": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {
+                  "refundPolicy": "Custom",
+                  "customRefundPolicy": "Cancellations are available any time"
+              }
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 35</h3>\n<p></p>\n<h3>Hot Shots! (1991)</h3>\n<p>Topper Harley, a top gun fighter pilot, is recalled to serve on the SS Essess. Topper's mission is to destroy Saddam Hussein's nuclear plants. Unfortunately, Topper is psychologically imbalanced and is sure to crack under pressure.</p><p><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em><br /></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "totalCapacity": 35,
+          "name": "Retro Trash Cinema 35",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2019-06-25T08:00:43.053Z",
+          "endDate": "2019-06-25T11:30:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5c85fd23e162b500129a7fe3",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2019-06-07T04:54:51.513Z",
+                  "updatedAt": "2019-06-07T04:54:51.513Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5c85fd23e162b500129a7fe4",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2019-06-07T04:54:51.513Z",
+                  "updatedAt": "2019-06-07T04:54:51.513Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5c85fd23e162b500129a7fe0",
+                  "name": "Retro Trash Cinema 35 - Admit One - Pizza",
+                  "quantity": 35,
+                  "description": "Admit one to Retro Trash Cinema 33, this includes delicious tasty pizza"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5c85fd23e162b500129a7fe1",
+                  "name": "Retro Trash Cinema 35 - Admit One - No Pizza",
+                  "quantity": 35,
+                  "description": "Admit one to Retro Trash Cinema 33, no pizza for you (because you don't want it or RSVP'd too late for pizza)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5c85fd23e162b500129a7fe5",
+                  "endDate": "2019-06-25T11:30:43.053Z",
+                  "startDate": "2019-06-25T08:00:43.053Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "bannerImage": {
+              "url": "https://cdn.filestackcontent.com/7WkmysecTYPViOk6dAQY"
+          },
+          "slug": "retro-trash-cinema-35",
+          "createdAt": "2019-03-11T06:16:04.208Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Atlassian Sydney - Zone, Level 9",
+              "address": "341 George Street Sydney"
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2019-03-11T06:16:04.208Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5c85f494e162b500129a77c4",
+          "published": true,
+          "suspendSales": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {}
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 34</h3>\n<p><br /></p>\n<h3>Office Space (1999)</h3>\n<p>Peter Gibbons (Ron Livingston) is a computer programmer working for Initech in Houston. Every day, he and his friends Samir (Ajay Naidu) and Michael Bolton (David Herman as not THAT Michael Bolton), suffer endless indignities and humiliations in their soulless workspace from their soulless boss, Bill Lumbergh (Gary Cole). For Peter, stuck in his cookie-cutter apartment with paper-thin walls and IKEA furniture, every day is worse than the one before it -- so every day is the worst of his life. To cap it off, Initech has hired a pair of &quot;efficiency experts&quot; to downsize the company.</p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\"><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "featureImage": {
+              "url": "https://cdn.filestackcontent.com/YrAeYfICSi6sGuVEpMvE"
+          },
+          "socialImage": {
+              "url": "https://cdn.filestackcontent.com/i0qyjzP1Qeqs0XNYP2Zb"
+          },
+          "totalCapacity": 80,
+          "name": "Retro Trash Cinema 34",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2019-04-09T08:00:43.053Z",
+          "endDate": "2019-04-09T11:30:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5c85f494e162b500129a77c1",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2019-03-11T05:39:32.257Z",
+                  "updatedAt": "2019-03-11T05:39:32.257Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5c85f494e162b500129a77c2",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2019-03-11T05:39:32.257Z",
+                  "updatedAt": "2019-03-11T05:39:32.257Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5c85f494e162b500129a77be",
+                  "name": "Retro Trash Cinema 34 - Admit One - Pizza",
+                  "quantity": 70,
+                  "description": "Admit one to Retro Trash Cinema 33, this includes delicious tasty pizza"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5c85f494e162b500129a77bf",
+                  "name": "Retro Trash Cinema 34 - Admit One - No Pizza",
+                  "quantity": 60,
+                  "description": "Admit one to Retro Trash Cinema 33, no pizza for you (because you don't want it or RSVP'd too late for pizza)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5c85f494e162b500129a77c3",
+                  "endDate": "2019-04-09T11:30:43.053Z",
+                  "startDate": "2019-04-09T08:00:43.053Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "slug": "retro-trash-cinema-34",
+          "createdAt": "2019-03-11T05:39:32.257Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Atlassian Sydney",
+              "address": "Around the World L29, 363 George Street"
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2019-03-11T05:39:32.257Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5c2ece384a222a000fb6926c",
+          "published": true,
+          "suspendSales": false,
+          "timezone": "Australia/Sydney",
+          "paymentOptions": {
+              "refundSettings": {}
+          },
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 33</h3><p>'Straya Day Movie Special</p>\n<h3>The Castle (1997)</h3><p>Working-class tow-truck driver and father of four Darryl Kerrigan's (Michael Caton) only distinguishing feature is his beaming reverence for his home and family. Although is kids appear to be underachievers and his home is located on the edge of a major international airport, his family is his pride and joy and his home is his castle. So when goverment officials demand that Kerrigan sell his house for an expansion of the airport, he fights back through the legal system- all the way up to the Supreme Court.</p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\"><em>Retro Trash Cinema is a regular get together and watch trashy 80s movies, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</em></p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\"><em>It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</em></p>",
+          "featureImage": {
+              "url": "https://cdn.filestackcontent.com/fTSPGM4nS82frrszEfPQ"
+          },
+          "socialImage": {
+              "url": "https://cdn.filestackcontent.com/8c3u7LiBT36UNYySFeFu"
+          },
+          "totalCapacity": 70,
+          "name": "Retro Trash Cinema 33",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "startDate": "2019-01-29T07:00:43.053Z",
+          "endDate": "2019-01-29T10:30:43.053Z",
+          "affiliateCodes": [],
+          "additionalQuestions": [
+              {
+                  "disabled": false,
+                  "_id": "5c2ece384a222a000fb69268",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "createdAt": "2019-01-04T03:08:40.494Z",
+                  "updatedAt": "2019-01-04T03:08:40.494Z"
+              },
+              {
+                  "disabled": false,
+                  "_id": "5c2ece384a222a000fb69269",
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "createdAt": "2019-01-04T03:08:40.494Z",
+                  "updatedAt": "2019-01-04T03:08:40.494Z"
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5c2ece384a222a000fb69265",
+                  "name": "Retro Trash Cinema 33 - Admit One - Pizza",
+                  "quantity": 50,
+                  "description": "Admit one to Retro Trash Cinema 33, this includes delicious tasty pizza"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5c2ece384a222a000fb69266",
+                  "name": "Retro Trash Cinema 33 - Admit One - No Pizza",
+                  "quantity": 20,
+                  "description": "Admit one to Retro Trash Cinema 33, no pizza for you (because you don't want it or RSVP'd too late for pizza)"
+              }
+          ],
+          "dates": [
+              {
+                  "disabled": false,
+                  "deleted": false,
+                  "_id": "5c2ece384a222a000fb6926a",
+                  "endDate": "2019-01-29T10:30:43.053Z",
+                  "startDate": "2019-01-29T07:00:43.053Z"
+              }
+          ],
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "slug": "retro-trash-cinema-33",
+          "createdAt": "2019-01-04T03:08:40.494Z",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "eventLocation": {
+              "latLng": [],
+              "type": "custom",
+              "venueName": "Atlassian Sydney",
+              "address": "Around the World L29, 363 George Street"
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2019-01-04T03:08:40.494Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      },
+      {
+          "_id": "5bee8e2fd6249a0010e0455c",
+          "updatedAt": "2024-01-05T02:09:19.532Z",
+          "createdAt": "2018-11-16T09:30:23.260Z",
+          "public": false,
+          "description": "<h3>Atlassian Retro Trash Cinema 32</h3>\n<h3><a href=\"https://www.imdb.com/title/tt0116705/\">Jingle All the Way</a> (1996)</h3>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\">Retro Trash Cinema is a regular get together and watch trashy <span>80s movies</span>, mockbusters, B-grade trash, cult movies and maybe the occasional <a href=\"http://en.wikipedia.org/wiki/Zucker,_Abrahams_and_Zucker\" target=\"_blank\">ZAZ</a> comedy. And eat pizza and drink beverages, of course.</p>\n<p style=\"font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:1.6em;\">It all started when a few gen X types realised that some gen Y types hadn't seen a bunch of seminal retro trashy films. We then set about correcting this cultural weakness...</p>",
+          "featureImage": {
+              "url": "https://cdn.filestackcontent.com/0ZnhLPI4R7e4r4wI5eYd"
+          },
+          "socialImage": {
+              "url": "https://cdn.filestackcontent.com/h7gKbqPWTO20C4K63R0T"
+          },
+          "totalCapacity": 70,
+          "name": "Retro Trash Cinema 32",
+          "userId": "Xo7gLN1iGzbpAV1T8vj3Rl92kdf2",
+          "slug": "retro-trash-cinema-32",
+          "startDate": "2018-12-19T07:30:43.053Z",
+          "endDate": "2018-12-19T10:00:43.053Z",
+          "affiliateCodes": [],
+          "paymentOptions": {
+              "refundSettings": {}
+          },
+          "additionalQuestions": [
+              {
+                  "_id": "5bee990301fb042c2bbae648",
+                  "required": true,
+                  "question": "Dietary Requirements",
+                  "perOrder": false,
+                  "disabled": false
+              },
+              {
+                  "perOrder": false,
+                  "question": "Other Dietary Requirements ",
+                  "required": false,
+                  "_id": "5bee8f81156afd3704bbcfbf",
+                  "disabled": false
+              }
+          ],
+          "packagedTickets": [],
+          "ticketTypes": [
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5bee8e2fd6249a0010e0455f",
+                  "name": "Retro Trash Cinema 32 - Admit One - Pizza",
+                  "quantity": 50,
+                  "description": "Admit one to Retro Trash Cinema 32, this includes delicious tasty pizza"
+              },
+              {
+                  "price": 0,
+                  "disabled": false,
+                  "deleted": false,
+                  "isDonation": false,
+                  "_id": "5bee8e2fd6249a0010e0455d",
+                  "name": "Retro Trash Cinema 32 - Admit One - No Pizza",
+                  "quantity": 20,
+                  "description": "Admit one to Retro Trash Cinema 32, no pizza for you (because you don't want it or RSVP'd too late for pizza)"
+              }
+          ],
+          "timezone": "Australia/Sydney",
+          "dates": [
+              {
+                  "_id": "5bee8e2fd6249a0010e04564",
+                  "endDate": "2018-12-19T10:00:43.053Z",
+                  "startDate": "2018-12-19T07:30:43.053Z",
+                  "deleted": false,
+                  "disabled": false
+              }
+          ],
+          "suspendSales": false,
+          "published": true,
+          "organiserId": "5bee885ad6249a0010e03cf6",
+          "eventLocation": {
+              "type": "custom",
+              "venueName": "Atlassian Sydney",
+              "address": "Around the World L29, 363 George Street",
+              "latLng": []
+          },
+          "location": "AU",
+          "currency": "AUD",
+          "publishedAt": "2018-11-16T09:30:23.260Z",
+          "classification": {
+              "type": "other",
+              "category": "filmMediaAndEntertainment"
+          }
+      }
+  ]
+}
